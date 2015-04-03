@@ -35,7 +35,7 @@
 
 ## 常见问题
 
-* dns被污染怎么办？
+* *dns被污染怎么办？*
 
 必须要说，这是最常见的误区。要知道，socks5接口本身是提供了远端域名解析功能的，所以本地dns再怎么被污染，都没有关系。shadowsocks也是如此，基于socks5和http代理（over socks5）的使用方式，在浏览器的使用场景下，都不需要存在dns污染的顾虑。
 
@@ -45,6 +45,16 @@
     1. curl --proxy http://127.0.0.1:3128 -o /dev/nul https://www.google.com/images/google_favicon_128.png
     2. curl --socks5-hostname 127.0.0.1:1080 -o /dev/null  https://www.google.com/images/google_favicon_128.png
     3. curl --socks5 127.0.0.1:1080 -o /dev/null https://www.google.com/images/google_favicon_128.png
+
+测试结果表明就方式3不能正常访问，因为它用的是本地dns解析，而前两者都工作正常。
+
+* *为什么用了ss和cow还是有些网站不能正常访问？*
+
+一般来说，你应该是使用了商业的ss服务，由于该ss服务商的服务器被多人使用，所以较大几率不是没有翻墙成功，而是ss服务商的ip被别的网站所拒绝，出现的错误常见reset, refused。
+
+
+
+
 
 
 
@@ -63,7 +73,7 @@
 <h2 id="">常见问题</h2>
 
 <ul>
-<li>dns被污染怎么办？</li>
+<li><em>dns被污染怎么办？</em></li>
 </ul>
 
 <p>必须要说，这是最常见的误区。要知道，socks5接口本身是提供了远端域名解析功能的，所以本地dns再怎么被污染，都没有关系。shadowsocks也是如此，基于socks5和http代理（over socks5）的使用方式，在浏览器的使用场景下，都不需要存在dns污染的顾虑。</p>
@@ -75,6 +85,14 @@
 2. curl --socks5-hostname 127.0.0.1:1080 -o /dev/null  https://www.google.com/images/google_favicon_128.png
 3. curl --socks5 127.0.0.1:1080 -o /dev/null https://www.google.com/images/google_favicon_128.png
 </code></pre>
+
+<p>测试结果表明就方式3不能正常访问，因为它用的是本地dns解析，而前两者都工作正常。</p>
+
+<ul>
+<li><em>为什么用了ss和cow还是有些网站不能正常访问？</em></li>
+</ul>
+
+<p>一般来说，你应该是使用了商业的ss服务，由于该ss服务商的服务器被多人使用，所以较大几率不是没有翻墙成功，而是ss服务商的ip被别的网站所拒绝，出现的错误常见reset, refused。</p>
 <!-- content end -->
 </div>
 <br>
