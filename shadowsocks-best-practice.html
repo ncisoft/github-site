@@ -25,16 +25,56 @@
 	</div>
 <div id="md" style="display: none;">
 <!-- markdown -->
-# 基础知识
+## 背景知识
 
-[shadowsocks] https://github.com/shadowsocks/shadowsocks 是最新流行的翻墙方法，通过提供 socks5接口方式达到翻墙的目的。在各种vpn被封锁的情况下，尤为简洁有效。
+[shadowsocks](https://github.com/shadowsocks/shadowsocks) 是最新流行的翻墙方法，通过提供 socks5接口方式达到翻墙的目的。在各种vpn被封锁的情况下，尤为简洁有效。
+
+## 基础用法
+
+[cow](https://github.com/cyfdecyf/cow) 是一个支持 shadowsocks 的代理工具，除了基本的将socks5 转化为 http 代理功能之外，还能自动检测被墙网站，仅对这些网站使用二级代理，从而实现国内国外自动分流的目的，具体请详见其[项目介绍]((https://github.com/cyfdecyf/cow)
+
+## 常见问题
+
+* dns被污染怎么办？
+
+必须要说，这是最常见的误区。要知道，socks5接口本身是提供了远端域名解析功能的，所以本地dns再怎么被污染，都没有关系。shadowsocks也是如此，基于socks5和http代理（over socks5）的使用方式，在浏览器的使用场景下，都不需要存在dns污染的顾虑。
+
+至于命令行操作，如果能指定代理，也是一样的，比如curl，有三种指定方式：
+在测试之前，手动修改 本地hosts文件将www.google.com指向127.0.0.1，模拟dns被污染的场景。
+
+    1. curl --proxy http://127.0.0.1:3128 -o /dev/nul https://www.google.com/images/google_favicon_128.png
+    2. curl --socks5-hostname 127.0.0.1:1080 -o /dev/null  https://www.google.com/images/google_favicon_128.png
+    3. curl --socks5 127.0.0.1:1080 -o /dev/null https://www.google.com/images/google_favicon_128.png
+
+
+
 <!-- markdown end -->
 </div>
 <div class="entry" id="main">
 <!-- content -->
-<h1 id="">基础知识</h1>
+<h2 id="">背景知识</h2>
 
-<p>[shadowsocks] https://github.com/shadowsocks/shadowsocks 是最新流行的翻墙方法，通过提供 socks5接口方式达到翻墙的目的。在各种vpn被封锁的情况下，尤为简洁有效。</p>
+<p><a href="https://github.com/shadowsocks/shadowsocks">shadowsocks</a> 是最新流行的翻墙方法，通过提供 socks5接口方式达到翻墙的目的。在各种vpn被封锁的情况下，尤为简洁有效。</p>
+
+<h2 id="">基础用法</h2>
+
+<p><a href="https://github.com/cyfdecyf/cow">cow</a> 是一个支持 shadowsocks 的代理工具，除了基本的将socks5 转化为 http 代理功能之外，还能自动检测被墙网站，仅对这些网站使用二级代理，从而实现国内国外自动分流的目的，具体请详见其<a href="(https://github.com/cyfdecyf/cow">项目介绍</a></p>
+
+<h2 id="">常见问题</h2>
+
+<ul>
+<li>dns被污染怎么办？</li>
+</ul>
+
+<p>必须要说，这是最常见的误区。要知道，socks5接口本身是提供了远端域名解析功能的，所以本地dns再怎么被污染，都没有关系。shadowsocks也是如此，基于socks5和http代理（over socks5）的使用方式，在浏览器的使用场景下，都不需要存在dns污染的顾虑。</p>
+
+<p>至于命令行操作，如果能指定代理，也是一样的，比如curl，有三种指定方式：
+在测试之前，手动修改 本地hosts文件将www.google.com指向127.0.0.1，模拟dns被污染的场景。</p>
+
+<pre><code>1. curl --proxy http://127.0.0.1:3128 -o /dev/nul https://www.google.com/images/google_favicon_128.png
+2. curl --socks5-hostname 127.0.0.1:1080 -o /dev/null  https://www.google.com/images/google_favicon_128.png
+3. curl --socks5 127.0.0.1:1080 -o /dev/null https://www.google.com/images/google_favicon_128.png
+</code></pre>
 <!-- content end -->
 </div>
 <br>
