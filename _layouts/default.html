@@ -11,7 +11,7 @@
 {% if page.keywords %}
 <meta name="keywords" content="{{ page.keywords }}" />
 {% endif %}
-<link rel="stylesheet" href="/static/css/main.scss" />
+<link rel="stylesheet" href="{{ "/statoc/css/main.css" | prepend: site.baseurl }}">
 <!--[if lt IE 9]>
 <script src="/static/js/html5.js"></script>
 
