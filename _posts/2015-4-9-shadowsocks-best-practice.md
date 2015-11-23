@@ -21,15 +21,12 @@ title: ss 最佳使用实践
 至于命令行操作，如果能指定代理，也是一样的，比如curl，有三种指定方式：
 在测试之前，手动修改 本地hosts文件，将www.google.com指向127.0.0.1，模拟dns被污染的场景。
 
----
     1. curl --proxy http://127.0.0.1:3128 -o /dev/nul https://www.google.com/images/google_favicon_128.png
     2. curl --socks5-hostname 127.0.0.1:1080 -o /dev/null  https://www.google.com/images/google_favicon_128.png
     3. curl --socks5 127.0.0.1:1080 -o /dev/null https://www.google.com/images/google_favicon_128.png
----
 
 
 {% highlight java %}
----
 public void testThread() {
 	TestThread thread = new TestThread(this);
 	thread.start();
@@ -44,7 +41,6 @@ public void testThread() {
 		e.printStackTrace();
 	}
 	System.out.println("end wait");
----
 {% endhighlight %}
 
 
