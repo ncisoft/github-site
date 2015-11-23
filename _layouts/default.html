@@ -11,10 +11,17 @@
 {% if page.keywords %}
 <meta name="keywords" content="{{ page.keywords }}" />
 {% endif %}
-<link rel="stylesheet" href="{{ "/statoc/css/_main.css" | prepend: site.baseurl }}">
+<link rel="stylesheet" href="/static/css/base-common.css" />
+{% if page.styles %}
+{% for style in page.styles %}
+<link rel="stylesheet" href="/static/css/syntax-highlighting.css" />
+{% endfor %}
+{% endif %}
+
 <!--[if lt IE 9]>
 <script src="/static/js/html5.js"></script>
 
+<link rel="stylesheet" href="{{ "/statoc/css/_main.css" | prepend: site.baseurl }}">
 <link rel="stylesheet" href="/static/css/base-common.css" />
 
 {% if page.styles %}
