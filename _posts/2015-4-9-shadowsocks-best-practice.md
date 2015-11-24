@@ -27,7 +27,8 @@ title: ss 最佳使用实践
 
 
 {% highlight java %}
-public void testThread() {
+
+public void testThreadLL() {
 	TestThread thread = new TestThread(this);
 	thread.start();
 	System.out.println("begin wait");
