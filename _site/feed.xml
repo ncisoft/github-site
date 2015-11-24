@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yellowblue - Responsive Jekyll Theme</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://localhost:3000/</link>
+    <atom:link href="http://localhost:3000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 25 Nov 2015 03:51:34 +0800</pubDate>
+    <lastBuildDate>Wed, 25 Nov 2015 03:51:34 +0800</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>ss debug</title>
+        <description>&lt;p&gt;http://webdesign.tutsplus.com/tutorials/workflow-tutorials/quick-tip-using-web-inspector-to-debug-mobile-safari/&lt;/p&gt;
+
+&lt;p&gt;http://www.slideshare.net/dalelane/debugging-web-apps-on-real-mobile-devices&lt;/p&gt;
+
+&lt;p&gt;https://developers.google.com/chrome-developer-tools/&lt;/p&gt;
+
+&lt;p&gt;http://stackoverflow.com/questions/5794984/how-to-debug-mobile-web-sites-or-html-css-on-mobile-devices-is-there-a-firebu&lt;/p&gt;
+
+&lt;p&gt;http://oreillynet.com/pub/e/2638&lt;/p&gt;
+
+&lt;p&gt;http://blogs.msdn.com/b/chandra/archive/2012/01/25/mobile-web-development-debugging-with-fiddler2.aspx&lt;/p&gt;
+
+&lt;p&gt;http://www.techhui.com/profiles/blogs/remote-debugging-mobile-web-apps&lt;/p&gt;
+
+&lt;p&gt;http://docs.webplatform.org/wiki/concepts/mobile_web/mobile_debugging&lt;/p&gt;
+
+&lt;p&gt;http://jbkflex.wordpress.com/2012/04/12/debug-mobile-web-applications-remotely-with-weinre/&lt;/p&gt;
+
+&lt;p&gt;http://www.opera.com/dragonfly/documentation/remote/&lt;/p&gt;
+
+&lt;p&gt;http://zielenkiewicz.info/2012/10/10/Remote_Debugging_for_Mobile_Web/&lt;/p&gt;
+
+&lt;p&gt;https://hacks.mozilla.org/2012/08/remote-debugging-on-firefox-for-android/&lt;/p&gt;
+
+&lt;p&gt;http://www.metaltoad.com/blog/short-list-handy-webmobile-web-debugging-tools&lt;/p&gt;
+
+&lt;p&gt;https://developer.apple.com/library/safari/#documentation/AppleApplications/Reference/SafariWebContent/DebuggingSafarioniPhoneContent/DebuggingSafarioniPhoneContent.html&lt;/p&gt;
+
+&lt;p&gt;http://socketbug.com/&lt;/p&gt;
+
+&lt;p&gt;移动Web开发：
+1. 流程
+2. 初始化
+3. 开发
+4. 调试
+5. 打包&amp;amp;发布&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Nov 2015 00:00:00 +0800</pubDate>
+        <link>http://localhost:3000/2015/11/23/debug.html</link>
+        <guid isPermaLink="true">http://localhost:3000/2015/11/23/debug.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Yellowblue!</title>
+        <description>&lt;p&gt;Yellowblue is a modern, clean and responsive Jekyll theme.&lt;/p&gt;
+
+&lt;p&gt;Yellowblue is perfect for your personal or professional blog, as it combines the simplicity and the powerful features of the Jekyll blogging engine.&lt;/p&gt;
+
+&lt;p&gt;Along with Jekyll&#39;s standard capabilities, Yellowblue gives you the option to use categories, tags, comments, even a contact page!&lt;/p&gt;
+
+&lt;p&gt;You can also have an archives page, neatly presenting your posts, organized by date.&lt;/p&gt;
+
+&lt;p&gt;You also get a categories&#39; list block, a tags&#39; list block, pagination, SVG icons, subtle animations, hero images, detailed documentation, even an idea for a 404 page!&lt;/p&gt;
+
+&lt;p&gt;No need to install extra plugins. Yellowblue takes care of the programming stuff, letting you to extend your site with minimum effort.&lt;/p&gt;
+
+&lt;p&gt;Oh, and Yellowblue comes with its own rich and stylish pattern library!&lt;/p&gt;
+
+&lt;p&gt;Please make sure to check Yellowblue&#39;s &lt;a href=&quot;/jekyll/2015/09/26/yellowblue-features.html&quot;&gt;full set of features&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 03 Oct 2015 02:19:27 +0800</pubDate>
+        <link>http://localhost:3000/welcome-to-yellowblue</link>
+        <guid isPermaLink="true">http://localhost:3000/welcome-to-yellowblue</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>welcome</category>
+        
+      </item>
+    
+      <item>
+        <title>Features</title>
+        <description>&lt;ul&gt;
+&lt;li&gt;Clean and modern design&lt;/li&gt;
+&lt;li&gt;Fully responsive, built using the &#39;Mobile First&#39; technique&lt;/li&gt;
+&lt;li&gt;No installation needed. Just download, extract and you&#39;re good to go&lt;/li&gt;
+&lt;li&gt;Custom and simple grid system&lt;/li&gt;
+&lt;li&gt;Rich and stylish Pattern Library&lt;/li&gt;
+&lt;li&gt;451 SVG icons (from &lt;a href=&quot;https://icomoon.io/&quot;&gt;Icomoon&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Syntax highlighting (from &lt;a href=&quot;http://prismjs.com/&quot;&gt;Prism&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Subtle animations&lt;/li&gt;
+&lt;li&gt;Categories (no extra plugins required)&lt;/li&gt;
+&lt;li&gt;Tags (no extra plugins required)&lt;/li&gt;
+&lt;li&gt;Hero images&lt;/li&gt;
+&lt;li&gt;Pagination&lt;/li&gt;
+&lt;li&gt;Comments (enable / disable them at your own will, globally or per post)&lt;/li&gt;
+&lt;li&gt;Contact form&lt;/li&gt;
+&lt;li&gt;Archives page (organized by publishing date)&lt;/li&gt;
+&lt;li&gt;Custom 404 page&lt;/li&gt;
+&lt;li&gt;Detailed and thorough documentation&lt;/li&gt;
+&lt;li&gt;Detailed auto-generated sitemap.xml&lt;/li&gt;
+&lt;li&gt;Real world articles&lt;/li&gt;
+&lt;li&gt;Distraction-free reading. The sidebar goes to the bottom while on posts and pages.&lt;/li&gt;
+&lt;li&gt;4 additional color scheme presets. Apply them by changing a single word in the code.&lt;/li&gt;
+&lt;li&gt;By the power of Sass variables, you can apply your own color schemes.&lt;/li&gt;
+&lt;li&gt;Github Pages ready. No extra plugins are installed&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sat, 26 Sep 2015 02:19:27 +0800</pubDate>
+        <link>http://localhost:3000/jekyll/2015/09/26/yellowblue-features.html</link>
+        <guid isPermaLink="true">http://localhost:3000/jekyll/2015/09/26/yellowblue-features.html</guid>
+        
+        <category>Site Features</category>
+        
+        
+        <category>jekyll</category>
+        
+      </item>
+    
+      <item>
+        <title>Defining Sections in HTML5</title>
+        <description>&lt;p&gt;All content lying inside the &lt;code class=&quot;language-markup&quot;&gt;&lt;body&gt;&lt;/code&gt; element is part of a section. Sections in HTML5 can be nested. Beside the main section, defined by the &lt;code class=&quot;language-markup&quot;&gt;&lt;body&gt;&lt;/code&gt; element, section limits are defined either explicitly or implicitly. Explicitly-defined sections are the content within &lt;code class=&quot;language-markup&quot;&gt;&lt;body&gt;&lt;/code&gt;,  &lt;code class=&quot;language-markup&quot;&gt;&lt;section&gt;&lt;/code&gt;,  &lt;code class=&quot;language-markup&quot;&gt;&lt;article&gt;&lt;/code&gt;,  &lt;code class=&quot;language-markup&quot;&gt;&lt;aside&gt;&lt;/code&gt;, and &lt;code class=&quot;language-markup&quot;&gt;&lt;nav&gt;&lt;/code&gt; tags.&lt;/p&gt;
+
+&lt;div class=&quot;alert-success&quot;&gt;
+    &lt;div class=&quot;line1&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;line2&quot;&gt;&lt;/div&gt;
+    &lt;blockquote class=&quot;text-black&quot;&gt;&lt;strong&gt;Note:&lt;/strong&gt; Each section can have its own heading hierarchy. Therefore, even a nested section can have an &lt;code class=&quot;language-markup&quot;&gt;&amp;lt;h1&gt;&lt;/code&gt;. See &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Sections_and_Outlines_of_an_HTML5_document#Defining_Headings_in_HTML5&quot;&gt;Defining Headings in HTML5&lt;/a&gt;.&lt;/blockquote&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;Example:&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+
+
+
+&lt;pre class=&quot;line-numbers&quot;&gt;
+&lt;code class=&quot;language-markup&quot;&gt;&amp;lt;section&gt;
+  &amp;lt;h1&gt;Forest elephants&amp;lt;/h1&gt;
+  &amp;lt;section&gt;
+    &amp;lt;h1&gt;Introduction&amp;lt;/h1&gt;
+    &amp;lt;p&gt;In this section, we discuss the lesser known forest elephants.&amp;lt;/p&gt;
+  &amp;lt;/section&gt;
+  &amp;lt;section&gt;
+    &amp;lt;h1&gt;Habitat&amp;lt;/h1&gt;
+    &amp;lt;p&gt;Forest elephants do not live in trees but among them.&amp;lt;/p&gt;
+  &amp;lt;/section&gt;
+  &amp;lt;aside&gt;
+    &amp;lt;p&gt;advertising block&amp;lt;/p&gt;
+  &amp;lt;/aside&gt;
+&amp;lt;/section&gt;
+&amp;lt;footer&gt;
+  &amp;lt;p&gt;(c) 2010 The Example company&amp;lt;/p&gt;
+&amp;lt;/footer&gt;&lt;/code&gt;
+&lt;/pre&gt;
+
+
+&lt;p&gt;This HTML snippet defines a top-level section:&lt;/p&gt;
+
+&lt;pre class=&quot;line-numbers&quot;&gt;
+&lt;code class=&quot;language-markup&quot;&gt;&amp;lt;section&gt;
+  &amp;lt;h1&gt;Forest elephants&amp;lt;/h1&gt;
+  &amp;lt;section&gt;
+    &amp;lt;h1&gt;Introduction&amp;lt;/h1&gt;
+    &amp;lt;p&gt;In this section, we discuss the lesser known forest elephants.&amp;lt;/p&gt;
+  &amp;lt;/section&gt;
+  &amp;lt;section&gt;
+    &amp;lt;h1&gt;Habitat&amp;lt;/h1&gt;
+    &amp;lt;p&gt;Forest elephants do not live in trees but among them.&amp;lt;/p&gt;
+  &amp;lt;/section&gt;
+  &amp;lt;aside&gt;
+    &amp;lt;p&gt;advertising block&amp;lt;/p&gt;
+  &amp;lt;/aside&gt;
+&amp;lt;/section&gt;
+&amp;lt;footer&gt;
+  &amp;lt;p&gt;(c) 2010 The Example company&amp;lt;/p&gt;
+&amp;lt;/footer&gt;&lt;/code&gt;
+&lt;/pre&gt;
+
+
+&lt;p&gt;This section has three subsections:&lt;/p&gt;
+
+&lt;pre class=&quot;line-numbers&quot;&gt;
+&lt;code class=&quot;language-markup&quot;&gt;&amp;lt;section&gt;
+  &amp;lt;h1&gt;Forest elephants&amp;lt;/h1&gt;
+
+  &amp;lt;section&gt;
+    &amp;lt;h1&gt;Introduction&amp;lt;/h1&gt;
+    &amp;lt;p&gt;In this section, we discuss the lesser known forest elephants.&amp;lt;/p&gt;
+  &amp;lt;/section&gt;
+
+  &amp;lt;section&gt;
+    &amp;lt;h1&gt;Habitat&amp;lt;/h1&gt;
+    &amp;lt;p&gt;Forest elephants do not live in trees but among them.&amp;lt;/p&gt;
+  &amp;lt;/section&gt;
+
+  &amp;lt;aside&gt;
+    &amp;lt;p&gt;advertising block&amp;lt;/p&gt;
+  &amp;lt;/aside&gt;
+&amp;lt;/section&gt;
+
+&amp;lt;footer&gt;
+  &amp;lt;p&gt;(c) 2010 The Example company&amp;lt;/p&gt;
+&amp;lt;/footer&gt;&lt;/code&gt;
+&lt;/pre&gt;
+
+
+&lt;p&gt;This leads to the following outline:&lt;/p&gt;
+
+&lt;pre class=&quot;line-numbers&quot;&gt;
+&lt;code class=&quot;language-markup&quot;&gt;1. Forest elephants
+   1.1 Introduction
+   1.2 Habitat
+&lt;/code&gt;
+&lt;/pre&gt;
+
+
+&lt;blockquote&gt;&lt;p&gt;source article: &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Sections_and_Outlines_of_an_HTML5_document#Defining_Sections_in_HTML5&quot;&gt;Defining Sections in HTML5&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+        <pubDate>Thu, 17 Sep 2015 02:19:27 +0800</pubDate>
+        <link>http://localhost:3000/defining-sections-in-html5</link>
+        <guid isPermaLink="true">http://localhost:3000/defining-sections-in-html5</guid>
+        
+        <category>tutorial</category>
+        
+        
+        <category>HTML5</category>
+        
+      </item>
+    
+      <item>
+        <title>How to install Jekyll</title>
+        <description>&lt;p&gt;Getting Jekyll installed and ready-to-go should only take a few minutes. If it ever becomes a pain in the ass, please &lt;a href=&quot;https://github.com/jekyll/jekyll/issues/new&quot;&gt;file an issue&lt;/a&gt; (or submit a pull request) describing the issue you encountered and how we might make the process easier.&lt;/p&gt;
+
+&lt;h3&gt;Requirements&lt;/h3&gt;
+
+&lt;p&gt;Installing Jekyll is easy and straight-forward, but there are a few requirements you’ll need to make sure your system has before you start.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.ruby-lang.org/en/downloads/&quot;&gt;Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://rubygems.org/pages/download&quot;&gt;RubyGems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Linux, Unix, or Mac OS X&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://nodejs.org/&quot;&gt;NodeJS&lt;/a&gt;, or another JavaScript runtime (for CoffeeScript support).&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;!-- more --&gt;
+
+
+
+
+&lt;div class=&quot;alert-info&quot;&gt;
+    &lt;div class=&quot;line1&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;line2&quot;&gt;&lt;/div&gt;
+    &lt;h3&gt;
+        &lt;div class=&quot;svg-container&quot;&gt;
+            &lt;svg class=&quot;icon icon-info&quot; viewBox=&quot;0 0 32 32&quot;&gt;
+                &lt;use xlink:href=&quot;#icon-info&quot;&gt;&lt;/use&gt;
+            &lt;/svg&gt;
+        &lt;/div&gt;
+        Running Jekyll on Windows
+    &lt;/h3&gt;
+    &lt;p&gt;While Windows is not officially supported, it is possible to get it running on Windows. Special instructions can be found on our &lt;a href=&quot;http://jekyllrb.com/docs/windows/#installation&quot;&gt; Windows-specific docs page&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;h3&gt;Install with RubyGems&lt;/h3&gt;
+
+&lt;p&gt;The best way to install Jekyll is via &lt;a href=&quot;http://rubygems.org/pages/download&quot;&gt;RubyGems&lt;/a&gt;. At the terminal prompt, simply run the following command to install Jekyll:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-markup&quot;&gt;$ gem install jekyll&lt;/code&gt;&lt;/pre&gt;
+
+
+&lt;p&gt;All of Jekyll’s gem dependencies are automatically installed by the above command, so you won’t have to worry about them at all. If you have problems installing Jekyll, check out the &lt;a href=&quot;http://jekyllrb.com/docs/troubleshooting/&quot;&gt;troubleshooting&lt;/a&gt; page or &lt;a href=&quot;https://github.com/jekyll/jekyll/issues/new&quot;&gt;report an issue&lt;/a&gt; so the Jekyll community can improve the experience for everyone.&lt;/p&gt;
+
+&lt;div class=&quot;alert-info&quot;&gt;
+    &lt;div class=&quot;line1&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;line2&quot;&gt;&lt;/div&gt;
+    &lt;h3&gt;
+        &lt;div class=&quot;svg-container&quot;&gt;
+            &lt;svg class=&quot;icon icon-info&quot; viewBox=&quot;0 0 32 32&quot;&gt;
+                &lt;use xlink:href=&quot;#icon-info&quot;&gt;&lt;/use&gt;
+            &lt;/svg&gt;
+        &lt;/div&gt;
+        Installing Xcode Command-Line Tools
+    &lt;/h3&gt;
+    &lt;p&gt;If you run into issues installing Jekyll&#39;s dependencies which make use of native extensions and are using Mac OS X, you will need to install Xcode and the Command-Line Tools it ships with. Download in &lt;code&gt;Preferences → Downloads → Components&lt;/code&gt;.&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;h3&gt;Pre-releases&lt;/h3&gt;
+
+&lt;p&gt;In order to install a pre-release, make sure you have all the requirements installed properly and run:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-markup&quot;&gt;gem install jekyll --pre&lt;/code&gt;&lt;/pre&gt;
+
+
+&lt;p&gt;This will install the latest pre-release. If you want a particular pre-release, use the &lt;code&gt;-v&lt;/code&gt; switch to indicate the version you’d like to install:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-markup&quot;&gt;gem install jekyll -v &#39;2.0.0.alpha.1&#39;&lt;/code&gt;&lt;/pre&gt;
+
+
+&lt;p&gt;If you’d like to install a development version of Jekyll, the process is a bit more involved. This gives you the advantage of having the latest and greatest, but may be unstable.&lt;/p&gt;
+
+&lt;pre&gt;
+&lt;code class=&quot;language-markup&quot;&gt;$ git clone git://github.com/jekyll/jekyll.git
+$ cd jekyll
+$ script/bootstrap
+$ bundle exec rake build
+$ ls pkg/*.gem | head -n 1 | xargs gem install -l&lt;/code&gt;
+&lt;/pre&gt;
+
+
+&lt;h3&gt;Optional Extras&lt;/h3&gt;
+
+&lt;p&gt;There are a number of (optional) extra features that Jekyll supports that you may want to install, depending on how you plan to use Jekyll. These extras include LaTeX support, and the use of alternative content rendering engines. Check out the &lt;a href=&quot;http://jekyllrb.com/docs/extras/&quot;&gt;extras page&lt;/a&gt; for more information.&lt;/p&gt;
+
+&lt;div class=&quot;alert-warning&quot;&gt;
+    &lt;div class=&quot;line1&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;line2&quot;&gt;&lt;/div&gt;
+    &lt;h3&gt;
+        &lt;div class=&quot;svg-container&quot;&gt;
+            &lt;svg class=&quot;icon icon-star3&quot; style=&quot;fill: #9d6002&quot; viewBox=&quot;0 0 32 32&quot;&gt;
+                &lt;use xlink:href=&quot;#icon-star3&quot;&gt;&lt;/use&gt;
+            &lt;/svg&gt;
+        &lt;/div&gt;
+        ProTip™: Enable Syntax Highlighting
+    &lt;/h3&gt;
+    &lt;p&gt;If you’re the kind of person who is using Jekyll, then chances are you’ll want to enable syntax highlighting using &lt;a href=&quot;http://pygments.org/&quot;&gt;Pygments&lt;/a&gt; or &lt;a href=&quot;https://github.com/jayferd/rouge&quot;&gt;Rouge&lt;/a&gt;. You should really &lt;a href=&quot;http://jekyllrb.com/docs/templates/#code-snippet-highlighting&quot;&gt;check out how to do that&lt;/a&gt; before you go any farther. &lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;Now that you’ve got everything installed, let’s get to work!&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;source article: &lt;a href=&quot;http://jekyllrb.com/docs/installation/&quot;&gt;http://jekyllrb.com/docs/installation/&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+        <pubDate>Tue, 18 Aug 2015 02:19:27 +0800</pubDate>
+        <link>http://localhost:3000/how-to-install-jekyll</link>
+        <guid isPermaLink="true">http://localhost:3000/how-to-install-jekyll</guid>
+        
+        <category>tutorial</category>
+        
+        <category>installation</category>
+        
+        
+        <category>jekyll</category>
+        
+      </item>
+    
+      <item>
+        <title>Comparing CSS PREprocessors</title>
+        <description>&lt;h3&gt;Variables&lt;/h3&gt;
+
+&lt;div class=&quot;table-container&quot;&gt;
+  &lt;table class=&quot;pure-table pure-table-striped full-width blue-var&quot;&gt;
+    &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th&gt;&lt;/th&gt;
+        &lt;th&gt;Less&lt;/th&gt;
+        &lt;th&gt;Sass&lt;/th&gt;
+        &lt;th&gt;Stylus&lt;/th&gt;
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+
+      &lt;tr&gt;
+        &lt;td&gt;
+          &lt;div class=&quot;bold&quot;&gt;Basic&lt;/div&gt;
+          &lt;div&gt;Ability to declare variables and use them later&lt;/div&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+          &lt;div class=&quot;svg-container&quot;&gt;
+              &lt;svg class=&quot;icon icon-checkmark icon-green&quot; viewBox=&quot;0 0 32 32&quot;&gt;
+                  &lt;use xlink:href=&quot;#icon-checkmark&quot;&gt;&lt;/use&gt;
+              &lt;/svg&gt;
+          &lt;/div&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+          &lt;div class=&quot;svg-container&quot;&gt;
+              &lt;svg class=&quot;icon icon-checkmark icon-green&quot; viewBox=&quot;0 0 32 32&quot;&gt;
+                  &lt;use xlink:href=&quot;#icon-checkmark&quot;&gt;&lt;/use&gt;
+              &lt;/svg&gt;
+          &lt;/div&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+          &lt;div class=&quot;svg-container&quot;&gt;
+              &lt;svg class=&quot;icon icon-checkmark icon-green&quot; viewBox=&quot;0 0 32 32&quot;&gt;
+                  &lt;use xlink:href=&quot;#icon-checkmark&quot;&gt;&lt;/use&gt;
+              &lt;/svg&gt;
+          &lt;/div&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr&gt;
+        &lt;td&gt;
+          &lt;div class=&quot;bold&quot;&gt;Default&lt;/div&gt;
+          &lt;div&gt;Default variables are overwritten by regular ones, no matter when they are declared&lt;/div&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+          &lt;div class=&quot;svg-container&quot;&gt;
+              &lt;svg class=&quot;icon icon-close icon-red&quot; viewBox=&quot;0 0 32 32&quot;&gt;
+                  &lt;use xlink:href=&quot;#icon-close &quot;&gt;&lt;/use&gt;
+              &lt;/svg&gt;
+          &lt;/div&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+          &lt;div class=&quot;svg-container&quot;&gt;
+              &lt;svg class=&quot;icon icon-checkmark icon-green&quot; viewBox=&quot;0 0 32 32&quot;&gt;
+                  &lt;use xlink:href=&quot;#icon-checkmark&quot;&gt;&lt;/use&gt;
+              &lt;/svg&gt;
+          &lt;/div&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+          &lt;div class=&quot;svg-container&quot;&gt;
+              &lt;svg class=&quot;icon icon-checkmark icon-green&quot; viewBox=&quot;0 0 32 32&quot;&gt;
+                  &lt;use xlink:href=&quot;#icon-checkmark&quot;&gt;&lt;/use&gt;
+              &lt;/svg&gt;
+          &lt;/div&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr&gt;
+        &lt;td&gt;
+          &lt;div class=&quot;bold&quot;&gt;Lazy&lt;/div&gt;
+          &lt;div&gt;Variable Hoisting, variables can be declared after being used&lt;/div&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+          &lt;div class=&quot;svg-container&quot;&gt;
+              &lt;svg class=&quot;icon icon-checkmark icon-green&quot; viewBox=&quot;0 0 32 32&quot;&gt;
+                  &lt;use xlink:href=&quot;#icon-checkmark &quot;&gt;&lt;/use&gt;
+              &lt;/svg&gt;
+          &lt;/div&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+          &lt;div class=&quot;svg-container&quot;&gt;
+              &lt;svg class=&quot;icon icon-close icon-red&quot; viewBox=&quot;0 0 32 32&quot;&gt;
+                  &lt;use xlink:href=&quot;#icon-close&quot;&gt;&lt;/use&gt;
+              &lt;/svg&gt;
+          &lt;/div&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+          &lt;div class=&quot;svg-container&quot;&gt;
+              &lt;svg class=&quot;icon icon-close icon-red&quot; viewBox=&quot;0 0 32 32&quot;&gt;
+                  &lt;use xlink:href=&quot;#icon-close&quot;&gt;&lt;/use&gt;
+              &lt;/svg&gt;
+          &lt;/div&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr&gt;
+        &lt;td&gt;
+          &lt;div class=&quot;bold&quot;&gt;Lookup&lt;/div&gt;
+          &lt;div&gt;Use the value of a previously declared property elsewhere&lt;/div&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+          &lt;div class=&quot;svg-container&quot;&gt;
+              &lt;svg class=&quot;icon icon-close icon-red&quot; viewBox=&quot;0 0 32 32&quot;&gt;
+                  &lt;use xlink:href=&quot;#icon-close &quot;&gt;&lt;/use&gt;
+              &lt;/svg&gt;
+          &lt;/div&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+          &lt;div class=&quot;svg-container&quot;&gt;
+              &lt;svg class=&quot;icon icon-close icon-red&quot; viewBox=&quot;0 0 32 32&quot;&gt;
+                  &lt;use xlink:href=&quot;#icon-close&quot;&gt;&lt;/use&gt;
+              &lt;/svg&gt;
+          &lt;/div&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+          &lt;div class=&quot;svg-container&quot;&gt;
+              &lt;svg class=&quot;icon icon-checkmark icon-green&quot; viewBox=&quot;0 0 32 32&quot;&gt;
+                  &lt;use xlink:href=&quot;#icon-checkmark&quot;&gt;&lt;/use&gt;
+              &lt;/svg&gt;
+          &lt;/div&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr&gt;
+        &lt;td&gt;
+          &lt;div class=&quot;bold&quot;&gt;Scoped&lt;/div&gt;
+          &lt;div&gt;Restrict the scope of variables&lt;/div&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+          &lt;div class=&quot;svg-container&quot;&gt;
+              &lt;svg class=&quot;icon icon-checkmark icon-green&quot; viewBox=&quot;0 0 32 32&quot;&gt;
+                  &lt;use xlink:href=&quot;#icon-checkmark &quot;&gt;&lt;/use&gt;
+              &lt;/svg&gt;
+          &lt;/div&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+          &lt;div class=&quot;svg-container&quot;&gt;
+              &lt;svg class=&quot;icon icon-checkmark icon-green&quot; viewBox=&quot;0 0 32 32&quot;&gt;
+                  &lt;use xlink:href=&quot;#icon-checkmark&quot;&gt;&lt;/use&gt;
+              &lt;/svg&gt;
+          &lt;/div&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+          &lt;div class=&quot;svg-container&quot;&gt;
+              &lt;svg class=&quot;icon icon-checkmark icon-green&quot; viewBox=&quot;0 0 32 32&quot;&gt;
+                  &lt;use xlink:href=&quot;#icon-checkmark&quot;&gt;&lt;/use&gt;
+              &lt;/svg&gt;
+          &lt;/div&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+
+    &lt;/tbody&gt;
+  &lt;/table&gt;
+&lt;/div&gt;
+
+
+&lt;blockquote&gt;&lt;p&gt;source article: &lt;a href=&quot;http://csspre.com/compare/&quot;&gt;csspre.com/compare/&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+        <pubDate>Tue, 11 Aug 2015 02:19:27 +0800</pubDate>
+        <link>http://localhost:3000/comparing-css-preprocessors</link>
+        <guid isPermaLink="true">http://localhost:3000/comparing-css-preprocessors</guid>
+        
+        <category>preprocessors</category>
+        
+        
+        <category>CSS</category>
+        
+      </item>
+    
+      <item>
+        <title>ss 最佳使用实践</title>
+        <description>&lt;h2&gt;背景知识&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/shadowsocks/shadowsocks&quot;&gt;shadowsocks&lt;/a&gt; 是最新流行的翻墙方法，通过提供 socks5代理方式达到翻墙的目的。在各种vpn被封锁的情况下，尤为简洁高效。&lt;/p&gt;
+
+&lt;h2&gt;基础用法&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/cyfdecyf/cow&quot;&gt;cow&lt;/a&gt; 是一个支持 shadowsocks 的代理工具，除了基本的将socks5 转化为 http 代理功能之外，还能自动检测被墙网站，仅对这些网站使用二级代理，从而实现国内国外自动分流的目的，具体请详见其&lt;a href=&quot;https://github.com/cyfdecyf/cow&quot;&gt;项目介绍&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;常见问题&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;dns被污染怎么办？&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;必须要说，这是最常见的误区。要知道，socks5接口本身是提供了远端域名解析功能的，所以本地dns再怎么被污染，都没有关系。shadowsocks也是如此，基于socks5和http代理（over socks5）的使用方式，在浏览器的使用场景下，都不需要存在dns污染的顾虑。&lt;/p&gt;
+
+&lt;p&gt;至于命令行操作，如果能指定代理，也是一样的，比如curl，有三种指定方式：
+在测试之前，手动修改 本地hosts文件，将www.google.com指向127.0.0.1，模拟dns被污染的场景。&lt;/p&gt;
+
+&lt;p&gt;&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;lineno&quot;&gt;1&lt;/span&gt;     curl --proxy http://127.0.0.1:3128 -o /dev/nul https://www.google.com/images/google_favicon_128.png
+&lt;span class=&quot;lineno&quot;&gt;2&lt;/span&gt;     curl --socks5-hostname 127.0.0.1:1080 -o /dev/null  https://www.google.com/images/google_favicon_128.png
+&lt;span class=&quot;lineno&quot;&gt;3&lt;/span&gt;     curl --socks5 127.0.0.1:1080 -o /dev/null https://www.google.com/images/google_favicon_128.png
+&lt;span class=&quot;lineno&quot;&gt;4&lt;/span&gt;     &lt;span class=&quot;nv&quot;&gt;$docker&lt;/span&gt; pull ubuntu:14.04&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-java&quot; data-lang=&quot;java&quot;&gt;&lt;span class=&quot;lineno&quot;&gt; 1&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// test&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 2&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;testThread&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 3&lt;/span&gt;  &lt;span class=&quot;n&quot;&gt;TestThread&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;thread&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;TestThread&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 4&lt;/span&gt;  &lt;span class=&quot;n&quot;&gt;thread&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;start&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 5&lt;/span&gt;  &lt;span class=&quot;n&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;out&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;println&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;begin wait&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 6&lt;/span&gt;  &lt;span class=&quot;k&quot;&gt;try&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 7&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 8&lt;/span&gt;      &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;result&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;wait&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 9&lt;/span&gt;      &lt;span class=&quot;n&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;out&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;println&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;after wait, the result = 0 &amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;result&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;10&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;catch&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;InterruptedException&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;11&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;12&lt;/span&gt;      &lt;span class=&quot;c1&quot;&gt;// TODO Auto-generated catch block&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;13&lt;/span&gt;      &lt;span class=&quot;n&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;printStackTrace&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;14&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;15&lt;/span&gt;  &lt;span class=&quot;n&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;out&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;println&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;end wait&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;16&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;lineno&quot;&gt; 1&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;//给id元素绑定两个单击和一个鼠标离开事件&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 2&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;#id&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;bind&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;click&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;once&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 3&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;#id&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;bind&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;click&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;second&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 4&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;#id&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;bind&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;mouseout&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(){&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;mouseout&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 5&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 6&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;//events对象的值&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 7&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 8&lt;/span&gt;   &lt;span class=&quot;s1&quot;&gt;&amp;#39;click&amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 9&lt;/span&gt;     &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;// 此对象还有:data,guid,namespace属性&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;10&lt;/span&gt;       &lt;span class=&quot;nx&quot;&gt;handler&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;once&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;11&lt;/span&gt;       &lt;span class=&quot;nx&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;click&amp;#39;&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;12&lt;/span&gt;     &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;13&lt;/span&gt;     &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;14&lt;/span&gt;       &lt;span class=&quot;nx&quot;&gt;handler&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;second&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;15&lt;/span&gt;       &lt;span class=&quot;nx&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;click&amp;#39;&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;16&lt;/span&gt;     &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;17&lt;/span&gt;   &lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;18&lt;/span&gt;   &lt;span class=&quot;s1&quot;&gt;&amp;#39;mouseout&amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;19&lt;/span&gt;     &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;20&lt;/span&gt;       &lt;span class=&quot;nx&quot;&gt;handler&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(){&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;mouseover&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;21&lt;/span&gt;       &lt;span class=&quot;nx&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;mouseout&amp;#39;&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;22&lt;/span&gt;     &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;23&lt;/span&gt;   &lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;24&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;测试结果表明就方式3不能正常访问，因为它用的是本地dns解析，而前两者都工作正常。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;为什么用了ss和cow还是有些网站不能正常访问？&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;一般来说，你应该是使用了商业的ss服务，由于该ss服务商的服务器被多人使用，所以较大几率不是没有翻墙成功，而是ss服务商的ip被别的网站所拒绝，出现的错误常见reset, refused。&lt;/p&gt;
+
+&lt;p&gt;这是个很关键的分析，请大家记住结论。问题如何解决呢，下面我们进入进阶用法&lt;/p&gt;
+
+&lt;h2&gt;那些踩过的坑&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;ss-redir好用吗？&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;我试过全局代理，能用，但是针对部分ip、port的代理则一直没有成功，redsocks则好很多，一配就过。而且ss-redir的日志输出简陋得很，基本没用，远没有ss-local、redsocks丰富。所以如果你想用ss-redir，建议改用redsocks、&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;通过ss-tunnel udprelay代理解析域名好用吗？&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;我在v2ex的节点上看到很多人问通过ss-tunnel udp代理解析域名的问题。这里有三个个误区，第一，不是所有的ss服务商都开启了udp relay功能的，比如我用的也只是部分节点才有提供，服务商也建议慎用；第二，参见上一节的分析，用了shadowsocks其实已经不用考虑域名解析纯净的问题，第三，如果有洁癖，仍然希望得到纯净的dns解析，正确的姿势是用ss-tunnel 的 tcprelay，shadowsocks支持tcprelay毫无鸭梨呀。且得到的ip是到你的ss服务器的最佳ip（dns智能解析）。你在本地用比如pdnsd桥接一下即可。示例代码如下：&lt;/p&gt;
+
+&lt;pre&gt; &lt;code class=&quot;language-markup&quot;&gt; ss-tunnel -c /tmp/ss-local.conf -b 0.0.0.0 -l 53 -L 8.8.8.8:53 -v &lt;/code&gt;&lt;/pre&gt;
+
+
+&lt;h2&gt;进阶用法&lt;/h2&gt;
+
+&lt;p&gt;接上条，既然被reset。refused的原因是ss服务商被多人使用造成被拒绝，要想稳定科学上网，必须要有一个稳定的外网socks5服务才行，至于怎么才能得到稳定的外网socks5服务，这留在下一环节再做分析。&lt;/p&gt;
+
+&lt;p&gt;那么假设你现在有了一个商业的ss服务（以下简称服务A），和一个稳定但可能速度略差的socks5服务（以下简称服务B），那么问题就变成了服务A快速但不稳定，服务B稳定但不快速。当然如果你的ss服务即快速又稳定，看youtube 720p没有压力，那么基础用法就足够适合你，以下就不用看了。&lt;/p&gt;
+
+&lt;p&gt;答案是&lt;a href=&quot;http://www.privoxy.org/&quot;&gt;privoxy&lt;/a&gt;。privoxy是个很常用的socks5-to-http代理，一般人都这么用，又或者当做垃圾广告拦截器来使用。但这严重浪费了privoxy的能力。privoxy的功能还包括基于hostname、user-agent（比如针对智能手机上的qq、微信、微博）分别做代理的能力（透过action进行配置），我的做法是国内网站直接出去，不经过A/B代理服务，而&lt;a href=&quot;https://github.com/breakwa11/gfw_whitelist&quot;&gt;gfw白名单&lt;/a&gt;上的网站走代理A，关键重点是服务A走不通的走代理B。这样就完美地利用了国内网速、代理A的速度、代理B的稳定性。要注意这些action的执行顺序。比如我用的是这样的&lt;/p&gt;
+
+&lt;pre&gt; &lt;code class=&quot;language-markup&quot;&gt; 
+    actionsfile direct.action      #国内网站直通，网站名做为判断依据
+    actionsfile ua-direct.action #国内网站直通，user-agent 做为判断依据
+    actionsfile gfw.action         #gfw白名单
+    actionsfile me.action         #自己维护的
+&lt;/code&gt;&lt;/pre&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/breakwa11/gfw_whitelist&quot;&gt;gfw白名单&lt;/a&gt;有人给做好了，怎么判断哪些网站是国内的呢？我的做法是把cow当做机器训练，也即privoxy配置成缺省走cow代理，通过定期分析cow的proxy.pac用工具转化成direct.action，这个工具我刚开始实现，等做出来了再给大家分享。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;为什么不用cow当前端，privoxy当后端？&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;理论上这是更好的方案，direct.action、ua-direct.action都可以省略掉了，可是我配置成privoxy当后端时卡顿异常严重，只有配置成socks5才快。如果你能配置成这种方式且使用顺利，那么恭喜了，我给cow提了&lt;a href=&quot;https://github.com/cyfdecyf/cow/issues/303&quot;&gt;issue&lt;/a&gt;，希望作者能尽快出新版解决这个问题。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;privoxy是否很配置起来复杂？&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;privoxy的规则不算复杂（不包括广告拦截这块，这部分我还没研究），比如[网站名匹配的规则(http://www.privoxy.org/user-manual/actions-file.html#AF-PATTERNS)]就很简单，如果有人能像&lt;a href=&quot;https://github.com/breakwa11/gfw_whitelist&quot;&gt;gfw白名单&lt;/a&gt;那样开箱即用，就更没难度了。&lt;/p&gt;
+
+&lt;p&gt;没码完，待续。。。后面是最精华的部分，敬请期待，预期明天4月6日写完。
+&lt;pp&gt;没码完，待续。。。后面是最精华的部分，敬请期待，预期明天4月6日写完。&lt;/p&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 09 Apr 2015 00:00:00 +0800</pubDate>
+        <link>http://localhost:3000/gfw/2015/04/09/shadowsocks-best-practice.html</link>
+        <guid isPermaLink="true">http://localhost:3000/gfw/2015/04/09/shadowsocks-best-practice.html</guid>
+        
+        <category>shadowsocks</category>
+        
+        
+        <category>gfw</category>
+        
+      </item>
+    
+      <item>
+        <title>Sample Post 2</title>
+        <description>&lt;h3&gt;Uuummmm, this is a tasty burger!&lt;/h3&gt;
+
+&lt;p&gt;Well, the way they make shows is, they make one show. That show&#39;s called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they&#39;re going to make more shows. Some pilots get picked and become television programs. Some don&#39;t, become nothing. She starred in one of the ones that became nothing.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+
+
+
+&lt;h3&gt;Is she dead, yes or no?&lt;/h3&gt;
+
+
+&lt;p&gt;Do you see any Teletubbies in here? Do you see a slender plastic tag clipped to my shirt with my name printed on it? Do you see a little Asian child with a blank expression on his face sitting outside on a mechanical helicopter that shakes when you put quarters in it? No? Well, that&#39;s what you see at a toy store. And you must think you&#39;re in a toy store, because you&#39;re here shopping for an infant named Jeb.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 28 Oct 2014 02:19:27 +0800</pubDate>
+        <link>http://localhost:3000/sample-post-2</link>
+        <guid isPermaLink="true">http://localhost:3000/sample-post-2</guid>
+        
+        <category>sample</category>
+        
+        <category>demo</category>
+        
+        <category>samuel-jackson-ipsum</category>
+        
+        
+        <category>Sample Post</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Sample Post 1</title>
+        <description>&lt;p&gt;Chia kitsch cronut taxidermy jean shorts heirloom. Hashtag cliche polaroid, umami Carles roof party mlkshk swag. Leggings church-key bicycle rights pork belly, cronut meditation messenger bag forage hoodie trust fund. Narwhal Godard cliche swag sartorial synth organic heirloom banjo squid food truck plaid. Master cleanse gluten-free retro literally paleo High Life sriracha. Jean shorts bespoke semiotics taxidermy, Austin cold-pressed church-key forage Vice Truffaut chillwave. Street art shabby chic chambray, lomo Intelligentsia dreamcatcher meditation slow-carb Austin messenger bag cardigan salvia cold-pressed.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+
+&lt;p&gt;Whatever listicle hoodie, distillery selfies 3 wolf moon vegan actually blog yr fingerstache four dollar toast gentrify kale chips. Chillwave actually banjo 90&#39;s, listicle four loko health goth. Migas literally church-key PBR readymade. PBR keytar bespoke gentrify Brooklyn, distillery you probably haven&#39;t heard of them. Gluten-free hella VHS kitsch. Small batch fap flannel, trust fund shabby chic church-key bespoke Wes Anderson. Sustainable VHS gentrify try-hard migas ennui.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 27 Oct 2014 02:19:27 +0800</pubDate>
+        <link>http://localhost:3000/sample-post-1</link>
+        <guid isPermaLink="true">http://localhost:3000/sample-post-1</guid>
+        
+        <category>sample</category>
+        
+        <category>demo</category>
+        
+        <category>hipster-ipsum</category>
+        
+        
+        <category>Sample Post</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Mobile Browser Debug</title>
+        <description>&lt;p&gt;http://webdesign.tutsplus.com/tutorials/workflow-tutorials/quick-tip-using-web-inspector-to-debug-mobile-safari/&lt;/p&gt;
+
+&lt;p&gt;http://www.slideshare.net/dalelane/debugging-web-apps-on-real-mobile-devices&lt;/p&gt;
+
+&lt;p&gt;https://developers.google.com/chrome-developer-tools/&lt;/p&gt;
+
+&lt;p&gt;http://stackoverflow.com/questions/5794984/how-to-debug-mobile-web-sites-or-html-css-on-mobile-devices-is-there-a-firebu&lt;/p&gt;
+
+&lt;p&gt;http://oreillynet.com/pub/e/2638&lt;/p&gt;
+
+&lt;p&gt;http://blogs.msdn.com/b/chandra/archive/2012/01/25/mobile-web-development-debugging-with-fiddler2.aspx&lt;/p&gt;
+
+&lt;p&gt;http://www.techhui.com/profiles/blogs/remote-debugging-mobile-web-apps&lt;/p&gt;
+
+&lt;p&gt;http://docs.webplatform.org/wiki/concepts/mobile_web/mobile_debugging&lt;/p&gt;
+
+&lt;p&gt;http://jbkflex.wordpress.com/2012/04/12/debug-mobile-web-applications-remotely-with-weinre/&lt;/p&gt;
+
+&lt;p&gt;http://www.opera.com/dragonfly/documentation/remote/&lt;/p&gt;
+
+&lt;p&gt;http://zielenkiewicz.info/2012/10/10/Remote_Debugging_for_Mobile_Web/&lt;/p&gt;
+
+&lt;p&gt;https://hacks.mozilla.org/2012/08/remote-debugging-on-firefox-for-android/&lt;/p&gt;
+
+&lt;p&gt;http://www.metaltoad.com/blog/short-list-handy-webmobile-web-debugging-tools&lt;/p&gt;
+
+&lt;p&gt;https://developer.apple.com/library/safari/#documentation/AppleApplications/Reference/SafariWebContent/DebuggingSafarioniPhoneContent/DebuggingSafarioniPhoneContent.html&lt;/p&gt;
+
+&lt;p&gt;http://socketbug.com/&lt;/p&gt;
+
+&lt;p&gt;移动Web开发：
+1. 流程
+2. 初始化
+3. 开发
+4. 调试
+5. 打包&amp;amp;发布&lt;/p&gt;
+</description>
+        <pubDate>Mon, 08 Jul 2013 00:00:00 +0800</pubDate>
+        <link>http://localhost:3000/2013/07/08/mobile-browser-debug.html</link>
+        <guid isPermaLink="true">http://localhost:3000/2013/07/08/mobile-browser-debug.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
