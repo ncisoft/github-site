@@ -1,4 +1,2 @@
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-keep_files: ["css", "_sass"]]
 markdown: rdiscount
 highlighter: pygments
